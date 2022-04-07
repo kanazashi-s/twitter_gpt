@@ -1,1 +1,1 @@
-# indi_copy_generator_gpt
+# Twitter-GPT
