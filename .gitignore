@@ -1,0 +1,7 @@
+.env
+/data/
+/mlruns/
+/models/
+/results/
+/reports/
+.idea/
